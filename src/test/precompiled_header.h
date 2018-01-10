@@ -1,0 +1,19 @@
+#pragma once
+
+#include <array>
+#include <catch_amalgamated.hpp>
+#include <chrono>
+#include <cstdint>
+#include <functional>
+#include <future>
+#include <memory.h>
+#include <mutex>
+#include <queue>
+#include <regex>
+#include <sstream>
+#include <stdexcept>
+#include <string>
+#include <string_view>
+#include <thread>
+#include <type_traits>
+#include <vector>
